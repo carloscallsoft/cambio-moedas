@@ -1,5 +1,7 @@
 ![Python](https://www.python.org/static/img/python-logo@2x.png)
 
+
+
 # Cambio com Python
 Um script para pegar os valores, via requeisição web, das cotações das principais moedas mundiais:
   - Dollar
@@ -8,6 +10,15 @@ Um script para pegar os valores, via requeisição web, das cotações das princ
 
 API utilizada: [FIXER.IO](https://fixer.io/)
 
+### Biblioteca para funcionamento do script
+```sh
+pip install requests
+pip install json
+pip install pandas
+```
+### Arquivo gerado
+![Aplicação](captura.PNG)
+ 
 
 ### Desenvolvedor
 
