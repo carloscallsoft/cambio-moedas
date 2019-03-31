@@ -6,6 +6,9 @@ Um script para pegar os valores, via requeisição web, das cotações das princ
   - Euro
   - Bitcoin
 
+API utilizada: [FIXER.IO](https://fixer.io/)
+
+
 ### Desenvolvedor
 
 - Carlos Alberto de Andrade
@@ -13,3 +16,9 @@ Um script para pegar os valores, via requeisição web, das cotações das princ
 License
 ----
 *Free Software!*
+
+# comando para usar git bash where  (click com mouse na pasta cambio)
+# git status
+# git diff    verifica o que mudou
+# git add .   atualiza git
+# git commit -m "Adicionando a referencia da API no README"           comentar alteração feita
