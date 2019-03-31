@@ -17,8 +17,9 @@ License
 ----
 *Free Software!*
 
-# comando para usar git bash where  (click com mouse na pasta cambio)
-# git status
-# git diff    verifica o que mudou
-# git add .   atualiza git
-# git commit -m "Adicionando a referencia da API no README"           comentar alteração feita
+### comando para usar git bash where  (click com mouse na pasta cambio)
+# git status                                                    verifica alterações
+# git diff    													verifica o que mudou
+# git add .   													atualiza git local na maquina
+# git commit -m "Adicionando a referencia da API no README"     comentar alteração feita
+# git push origin master                                      	Atualiza as alterações no site github
